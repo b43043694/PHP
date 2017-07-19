@@ -24,3 +24,4 @@ function mask_email( $email ) {
 }
 
 $email = siriwan@gmail.com
+echo $email
